@@ -1,0 +1,20 @@
+[
+{
+     "nomeProduto": "Celeste Sports Bra",
+     "tamanho": "XS",
+     "cor": "Red",
+     "quantidade": 3
+},   
+{
+    "nomeProduto": "Chaz Kangeroo Hoodie",
+    "tamanho": "XS",
+    "cor": "Black",
+    "quantidade": 5
+}, 
+{
+    "nomeProduto": "Cassius Sparring Tank",
+    "tamanho": "S",
+    "cor": "Blue",
+    "quantidade": 10
+} 
+]
